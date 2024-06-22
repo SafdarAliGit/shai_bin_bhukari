@@ -215,3 +215,4 @@ app_license = "MIT"
 # auth_hooks = [
 #	"shai_bin_bhukari.auth.validate"
 # ]
+required_apps = ["erpnext"]
