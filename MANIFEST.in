@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include shai_bin_bhukari *.css
+recursive-include shai_bin_bhukari *.csv
+recursive-include shai_bin_bhukari *.html
+recursive-include shai_bin_bhukari *.ico
+recursive-include shai_bin_bhukari *.js
+recursive-include shai_bin_bhukari *.json
+recursive-include shai_bin_bhukari *.md
+recursive-include shai_bin_bhukari *.png
+recursive-include shai_bin_bhukari *.py
+recursive-include shai_bin_bhukari *.svg
+recursive-include shai_bin_bhukari *.txt
+recursive-exclude shai_bin_bhukari *.pyc
